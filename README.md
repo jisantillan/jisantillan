@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Santillán</h1>
-<h3 align="center">"I'm in my fourth year of studies towards a bachelor's in Systems Analysis</h3>
+<h3 align="center">I'm in my fourth year of studies towards a bachelor's in Systems Analysis</h3>
 
 - 🌱 I’m currently learning **Spring Framework**
 - 👨‍💻 My portfolio page [https://jisantillan.github.io/](https://jisantillan.github.io/)
