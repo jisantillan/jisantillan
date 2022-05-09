@@ -2,7 +2,6 @@
 <h3 align="center">I'm in my fourth year of studies towards a bachelor's in Systems Analysis</h3>
 
 - 🌱 I’m currently learning **Spring Framework**
-- 👨‍💻 My portfolio page [https://jisantillan.github.io/](https://jisantillan.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
