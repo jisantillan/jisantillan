@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Santillán</h1>
 <h3 align="center">I'm in my fourth year of studies towards a bachelor's in Systems Analysis</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **React JS** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
