@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Javier Santillán</h1>
-<h3 align="center">I'm in my fourth year of studies towards a bachelor's in Systems Analysis</h3>
 
 - 🌱 I’m currently learning **AI with Python** 
 
